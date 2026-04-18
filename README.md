@@ -1,21 +1,110 @@
 # Hi 👋 I'm Ahmed Ehab
 
+## 💫 About Me
+Backend Developer with solid experience in building scalable APIs using ASP.NET Core and Django.  
+I have hands-on experience with DevOps tools and practices, and a growing interest in frontend development.  
+Passionate about clean architecture, performance optimization, and building real-world systems.
+
+---
+
+## 📊 GitHub Stats
+
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedEhab5006&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEhab5006&layout=compact&theme=tokyonight)
+
+---
+
 ## 🚀 Technologies & Tools
 
 ### 🧠 Backend
-![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+  <img src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=django" />
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### ⚙️ DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=ansible" />
+</p>
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+</p>
 
-### 🗄️ Database
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=java" />
+</p>
 
-### ⚙️ Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
+
+## 🧩 Skills
+
+### 🔧 Technical Skills
+- ASP.NET Core  
+- ASP.NET Web API  
+- ASP.NET MVC  
+- Entity Framework Core  
+- LINQ  
+- T-SQL  
+- JavaScript  
+- HTML / CSS / Bootstrap  
+
+---
+
+### 🧠 Concepts
+- REST APIs  
+- Domain Driven Design  
+- Tiered Architectures  
+- Design Patterns  
+- SOLID Principles  
+- Agile Development Methodologies  
+- Database Management  
+- Data Structures  
+- Quality Standards  
+- Troubleshooting  
+
+---
+
+### 🤝 Soft Skills
+- Customer Focused  
+- Entrepreneurial Mindset  
+- Resilient  
+- Creative  
+- Problem Solving  
+- Effective Communication  
+- Attention to Detail  
+- Following Instructions  
+
+---
+
+## 💼 Experience
+
+- Developed multiple backend systems using ASP.NET Core Web API  
+- Built real-time applications using MQTT and SignalR  
+- Worked with Docker for containerization and deployment  
+- Implemented CI/CD concepts and automation using Ansible  
+- Designed and optimized relational databases (SQL Server & PostgreSQL)  
+- Built fullstack applications with React and modern frontend tools  
+
+🔗 More details: https://portfolio-beta-nine-34.vercel.app/#experience
