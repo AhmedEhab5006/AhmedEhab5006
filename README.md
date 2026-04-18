@@ -109,4 +109,4 @@ Passionate about clean architecture, performance optimization, and building real
 - Designed and optimized relational databases (SQL Server & PostgreSQL)  
 - Built fullstack applications with React and modern frontend tools  
 
-🔗 More details: https://portfolio-beta-nine-34.vercel.app/#experience
+🔗 More details: https://portfolio-beta-nine-34.vercel.app
