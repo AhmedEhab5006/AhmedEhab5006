@@ -1,4 +1,6 @@
 # Hi 👋 I'm Ahmed Ehab
+![Profile Views](https://komarev.com/ghpvc/?username=AhmedEhab5006&label=Profile%20views&color=0e75b6&style=for-the-badge)
+
 
 ## 💫 About Me
 Backend Developer with solid experience in building scalable APIs using ASP.NET Core and Django.  
